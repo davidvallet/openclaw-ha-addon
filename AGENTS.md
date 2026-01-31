@@ -1,6 +1,6 @@
 # Repository Guidelines
 
-- Repo: https://github.com/shmulik323/openclaw-ha-addon
+- Repo: https://github.com/davidvallet/openclaw-ha-addon
 
 ## Project Structure & Files
 
